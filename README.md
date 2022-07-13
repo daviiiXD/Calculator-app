@@ -1,2 +1,2 @@
 # Calculator-app
-A simple opem source calculator app
+A simple open source calculator app
